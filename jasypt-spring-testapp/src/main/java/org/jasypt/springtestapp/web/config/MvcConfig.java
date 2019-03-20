@@ -1,0 +1,10 @@
+package org.jasypt.springtestapp.web.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.ImportResource;
+
+@Configuration
+@ImportResource("classpath:spring-jasypt.xml")
+public class MvcConfig {
+
+}

@@ -31,7 +31,7 @@
   * jasypt-hibernate3
   * jasypt-hibernate4
   * jasypt-spring2
-  * jasypt-spring3
+  * jasypt-spring
   * jasypt-acegisecurity
   * jasypt-springsecurity2
   * jasypt-springsecurity3

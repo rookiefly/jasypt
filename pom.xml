@@ -27,17 +27,17 @@
     -->
 
     <modelVersion>4.0.0</modelVersion>
-  	<groupId>org.jasypt</groupId>
-  	<artifactId>jasypt-all</artifactId>
-  	<packaging>pom</packaging>
-  	<version>1.9.3-SNAPSHOT</version>
-  	<name>jasypt-all</name>
-  	<url>http://www.jasypt.org</url>
+    <groupId>org.jasypt</groupId>
+    <artifactId>jasypt-all</artifactId>
+    <packaging>pom</packaging>
+    <version>1.9.3-SNAPSHOT</version>
+    <name>jasypt-all</name>
+    <url>http://www.jasypt.org</url>
 
     <modules>
         <module>jasypt</module>
-        <module>jasypt-spring31</module>
-        <module>jasypt-spring31-testapp</module> 
+        <module>jasypt-spring</module>
+        <module>jasypt-spring-testapp</module>
     </modules>
 
     <properties>
